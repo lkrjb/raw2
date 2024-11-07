@@ -1,6 +1,6 @@
 <?php
 session_start();
-$ewean = 'ginibanget';
+$ewean = '$2y$10$A1GX/eNcJ9ER/ScH7SaLOu.1EgxHsfRcbh/c09bsbHuPIED4HMAsa';
 
 if (!isset($_SESSION['authenticated'])) {
     if (isset($_POST['password'])) {
