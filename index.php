@@ -13,6 +13,7 @@
   <meta name="og:title" content="Slot Gacor 👿 Link Bandar Slot Online Deposit 5000 Terpercaya Se-Asia" />
   <meta name="og:type" content="product" />
   <meta name="og:description" content="Slot Gacor merupakan Situs slot online terpercaya deposit 5000, mudah menang, bonus besar, & akses 24 jam. Mainkan game favoritmu & raih jackpot maxwin hari ini!" />
+  <meta name="google-site-verification" content="DMHE3bFNQuY7h_DR3-GJBysFxEckF5Ul4xkz9XOjSac" />
   <meta name="og:image" content="https://amprjb.site/images/LAND-194.jpg" />
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://imgsaya2.io/images/2024/06/07/rajabandot.Fav.png" />
